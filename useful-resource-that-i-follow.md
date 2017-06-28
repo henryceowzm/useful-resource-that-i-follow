@@ -268,3 +268,7 @@
 1. [apt - Unable to lock the administration directory (/var/lib/dpkg/) is another process using it? - Ask Ubuntu](https://askubuntu.com/questions/15433/unable-to-lock-the-administration-directory-var-lib-dpkg-is-another-process)
 1. [Vim Introduction and Tutorial - IMHO](https://blog.interlinked.org/tutorials/vim_tutorial.html)
 1. [Git - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+1. [开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻](https://toutiao.io/)
+1. [From Beijing with Love - 知乎专栏](https://zhuanlan.zhihu.com/frombeijingwithlove)
+1. [超级干货 | 从神经元到CNN、RNN、GAN…神经网络看本文绝对够了](https://mp.weixin.qq.com/s/Si2jtA3jrKJVCXJ1B3fZQw)
+1. [知乎上有哪些比较好的机器学习，数据挖掘相关的专栏？ - 知乎](https://www.zhihu.com/question/49428252)
