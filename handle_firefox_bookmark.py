@@ -13,4 +13,4 @@ with open(file_name) as json_file:
     data=json.load(json_file)
     for uri_item in data['children'][2]['children']:
         uri_data.append('1. ['+uri_item['title']+']'+'('+uri_item['uri']+')')
-print '\n'.join(x for x in uri_data) 
+print '\n'.join(x.encode('utf-8') for x in uri_data) 
